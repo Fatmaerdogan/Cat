@@ -1,0 +1,10 @@
+{
+    "name": "VuforiaScripts",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Android"
+    ],
+    "allowUnsafeCode": false
+}
